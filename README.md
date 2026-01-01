@@ -20,7 +20,6 @@ The app integrates with a **PHP & MySQL backend**, supports **online payments**,
 ---
 
 ## 📸 Screenshots
-Add your screenshots inside:
 <table>
 <tr>
   <td><img src="assets/images/0.png"  width="200"/></td>
